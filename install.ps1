@@ -9,4 +9,3 @@ scoop install teamviewer
 scoop install vlc
 scoop install wireshark
 scoop install advanced-ip-scanner
-scoop install chrome
